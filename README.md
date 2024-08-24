@@ -41,7 +41,7 @@ https://github.com/PoopooumgoodTTV/Reverie-clan-Manager/tree/main/kirka/themes/o
 - https://raw.githubusercontent.com/PoopooumgoodTTV/Reverie-clan-Manager/main/README.md
 ```
 ```diff
-Reverie-clan-Manager
+#FULOTV
 + ├── README.md
 + ├── 📁 Page-2
 - ├── .github
